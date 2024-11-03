@@ -1,0 +1,13 @@
+[terminal.shell]
+program = "/bin/tmux"
+
+[window]
+padding = { x = 3, y = 3 }
+
+[font]
+normal = { family = "JetBrainsMono NF", style = "Regular" }
+
+[colors.primary]
+background = "#303030"
+foreground = "#D6D3A4"
+dim_foreground = "#AFAF87"
